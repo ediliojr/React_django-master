@@ -1,1 +1,1 @@
-web: gunicorn React_django_master/DjangoApi/wsgi
+web: gunicorn React_django_master.wsgi
